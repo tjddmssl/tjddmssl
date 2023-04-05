@@ -1,8 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20My%20Git-Hub%20Profile&fontSize=60)
-
 # Hi there 👋, I'm Sungeun Lee
-
 - 🐥 **Front-end Developer**
 - 📬 **E-mail**: danbi6485@gmail.com
 - 📝 **Blog**: https://velog.io/@tjddmssl
