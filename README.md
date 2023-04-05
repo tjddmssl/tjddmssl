@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20My%20Git-Hub%20Profile&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20to%20My%20Git-Hub%20Profile&fontSize=50)
 # Hi there 👋, I'm Sungeun Lee from Korea
 - 🐥 **Front-end Developer**
 - 📬 **E-mail**: danbi6485@gmail.com
